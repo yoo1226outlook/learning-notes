@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100-Programming/react/zustand-useStore.md",
+                "file": "100-Programming/FullStack Overview/소셜 로그인 & 인프라 세팅 통합 가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zustand-useStore"
-            }
-          }
-        ]
-      },
-      {
-        "id": "68aa5b6278904d8b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7ca4aaad57c98dc0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "소셜 로그인 & 인프라 세팅 통합 가이드"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-Programming/react/zustand-useStore.md",
+                "file": "100-Programming/FullStack Overview/소셜 로그인 & 인프라 세팅 통합 가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "zustand-useStore 의 백링크"
+              "title": "소셜 로그인 & 인프라 세팅 통합 가이드 의 백링크"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100-Programming/react/zustand-useStore.md",
+                "file": "100-Programming/FullStack Overview/소셜 로그인 & 인프라 세팅 통합 가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "zustand-useStore 의 나가는 링크"
+              "title": "소셜 로그인 & 인프라 세팅 통합 가이드 의 나가는 링크"
             }
           },
           {
@@ -172,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-Programming/react/zustand-useStore.md",
+                "file": "100-Programming/FullStack Overview/소셜 로그인 & 인프라 세팅 통합 가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "zustand-useStore 의 개요"
+              "title": "소셜 로그인 & 인프라 세팅 통합 가이드 의 개요"
             }
           },
           {
@@ -190,13 +174,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "5c87b2f74602ddf4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 911.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +207,15 @@
   },
   "active": "f4b76e5d607214e7",
   "lastOpenFiles": [
+    "100-Programming/FullStack Overview/소셜 로그인 & 인프라 세팅 통합 가이드.md",
+    "100-Programming/react/Zustand - Lightweight State Management for React.md",
+    "100-Programming/FullStack Overview/Multer - Node.js File Upload Management.md",
     "React.md",
+    "무제.canvas",
+    "2026-03-13.md",
+    "100-Programming/FullStack Overview/CORS (Cross-Origin Resource Sharing).md",
     "100-Programming/react/zustand-useStore.md",
+    "100-Programming/FullStack Overview",
     "100-Programming/무제.md",
     "100-Programming/react",
     "환영합니다!.md",
